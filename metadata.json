@@ -1,0 +1,6 @@
+{
+  "name": "Study Tracker",
+  "description": "A personal study tracker portal for university students to track subjects, log sessions, and monitor weekly goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
